@@ -1,0 +1,15 @@
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\bin\Debug\net7.0\controle_de_cliente.exe
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\bin\Debug\net7.0\controle_de_cliente.deps.json
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\bin\Debug\net7.0\controle_de_cliente.runtimeconfig.json
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\bin\Debug\net7.0\controle_de_cliente.dll
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\bin\Debug\net7.0\controle_de_cliente.pdb
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\obj\Debug\net7.0\controle_de_cliente.csproj.AssemblyReference.cache
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\obj\Debug\net7.0\controle_de_cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\obj\Debug\net7.0\controle_de_cliente.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\obj\Debug\net7.0\controle_de_cliente.AssemblyInfo.cs
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\obj\Debug\net7.0\controle_de_cliente.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\obj\Debug\net7.0\controle_de_cliente.dll
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\obj\Debug\net7.0\refint\controle_de_cliente.dll
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\obj\Debug\net7.0\controle_de_cliente.pdb
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\obj\Debug\net7.0\controle_de_cliente.genruntimeconfig.cache
+C:\Users\adria\Documents\Programs\C#\curso_senai\atividade01\controle_de_cliente\obj\Debug\net7.0\ref\controle_de_cliente.dll
